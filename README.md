@@ -2,6 +2,7 @@
 This is the Github repository for feature matching using local affine preservation matching.
 
 # Requirement
+LAP requires [VLfeat](https://github.com/vlfeat/vlfeat) to build the initial neighborhoods.
 
 # Citation
 This code is the improved version of our paper:
