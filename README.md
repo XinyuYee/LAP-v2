@@ -7,6 +7,7 @@ LAP requires [VLfeat](https://github.com/vlfeat/vlfeat) to build the initial nei
 # Citation
 
 If you use the code, please cite:
+```
 @ARTICLE{ye2022local,
   author={Ye, Xinyu and Ma, Jiayi and Xiong, Huilin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -16,6 +17,7 @@ If you use the code, please cite:
   number={},
   pages={1-12},
   doi={10.1109/TGRS.2021.3128292}}
+```
 
 This code is the improved version of our paper:
 ```
