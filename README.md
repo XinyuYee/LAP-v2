@@ -7,7 +7,10 @@ MATLAB (test on 2021b)
 [VLfeat](https://github.com/vlfeat/vlfeat) 
 
 # Usage
-Run demo_LAP_fast.m 
+- Demo dataset: ```.\127_r.JPG```,```.\127_l.JPG```,```.\127.mat```.
+- Run ```demo_LAP_fast.m``` for mismatch removal using LAP (Local Affine Preservation) matching algorithm.
+- Run ```evaluatePR.m```
+- Run ```plot_matches.m```
 
 # Citation
 
