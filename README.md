@@ -2,7 +2,12 @@
 This is the Github repository for feature matching using local affine preservation matching with motion consistency.
 
 # Requirement
-LAP requires [VLfeat](https://github.com/vlfeat/vlfeat) to build the initial neighborhoods.
+MATLAB (test on 2021b)
+
+[VLfeat](https://github.com/vlfeat/vlfeat) 
+
+# Usage
+Run demo_LAP_fast.m 
 
 # Citation
 
