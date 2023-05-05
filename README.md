@@ -14,7 +14,10 @@ MATLAB (test on 2021a)
 
   ![image](https://user-images.githubusercontent.com/87520254/236364113-5a13b260-5b54-446c-b307-206ab9cee338.png)
 
-- ```plot_4c.m``` 
+- ```plot_4c.m``` shows the distribution of ture correspondences and false correspondences.
+  
+![untitled](https://user-images.githubusercontent.com/87520254/236365469-55d11f07-a1ee-406f-9ed2-16955f6af233.png)
+
 
 
 # Citation
